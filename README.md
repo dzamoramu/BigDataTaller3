@@ -1,1 +1,1 @@
-# BigDataTaller3
+# social-networks-analysis
