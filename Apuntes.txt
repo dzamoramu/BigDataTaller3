@@ -1,0 +1,17 @@
+Inicialmente se realizo el proceso con el dataset original y trabajo en las sesiones de clases 
+NaN    5612
+0.0     270
+1.0     154
+
+Segundo proceso con 300 datos más etiquetados 
+NaN    4340
+0.0     952
+1.0     744
+Name: sentiment, dtype: int64
+
+
+Tercer proceso con 450 datos más etiquetados
+NaN    3893
+0.0    1249
+1.0     894
+Name: sentiment, dtype: int64
